@@ -1,4 +1,4 @@
-#Petit guide d’accessibilité pour site Web#
+#,Petit guide d’accessibilité pour site Web#,
 
 Ce guide est dédié aux bonnes pratiques d'accessibilité pour les sites Internet en vous donnant de petits conseils pratiques pour garantir que votre site offre une accessibilité optimale. Il vise à fournir des directives claires pour améliorer la réflexion et puis la conception des menus, textes et titres, formulaire sur votre site web et les futurs pages qui y seront créées.
 
