@@ -1,4 +1,4 @@
-#,Petit guide d’accessibilité pour site Web#,
+# Petit guide d’accessibilité pour site Web
 
 Ce guide est dédié aux bonnes pratiques d'accessibilité pour les sites Internet en vous donnant de petits conseils pratiques pour garantir que votre site offre une accessibilité optimale. Il vise à fournir des directives claires pour améliorer la réflexion et puis la conception des menus, textes et titres, formulaire sur votre site web et les futurs pages qui y seront créées.
 
@@ -8,7 +8,7 @@ Pour optimiser un site internet, il est essentiel de faciliter l’accès aux in
 La conception d'un site accessible ne se limite pas à une simple conformité aux normes, mais s'étend à la création d'une expérience en ligne enrichissante pour tous les utilisateurs. En se concentrant sur des aspects tels que la lisibilité, la navigation simplifiée et la compréhension du contenu, nous pouvons créer des environnements web où chacun peut pleinement participer, quelle que soit sa capacité visuelle et/ou auditive.
 Ce guide fournira des petits conseils pratiques pour garantir que notre site offre une accessibilité optimale.
 
-**Exemple de différents problèmes visuels rencontrées.**
+## Exemple de différents problèmes visuels rencontrées
 
 Les problèmes visuels peuvent varier considérablement d'une personne à l'autre et ils peuvent être permanents ou temporaires. Voici quelques-uns des problèmes visuels les plus courants qui peuvent affecter nos internautes :
 1 - Cécité totale : Certains utilisateurs sont totalement aveugles et donc ne peuvent pas voir du tout.
