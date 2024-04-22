@@ -12,12 +12,17 @@ Ce guide fournira des petits conseils pratiques pour garantir que notre site off
 
 Les problèmes visuels peuvent varier considérablement d'une personne à l'autre et ils peuvent être permanents ou temporaires. Voici quelques-uns des problèmes visuels les plus courants qui peuvent affecter nos internautes :
 1 - Cécité totale : Certains utilisateurs sont totalement aveugles et donc ne peuvent pas voir du tout.
+
 2 - Daltonisme : Les personnes atteintes de daltonisme ont des difficultés à distinguer certaines couleurs. Les formes les plus courantes de daltonisme affectent la capacité à différencier le rouge et le vert (8% des hommes sont daltoniens).
 
 3 – Dyslexie :  La dyslexie se définit comme une confusion et/ou inversion de sons et de lettres. Ce trouble de la lecture se traduit par une difficulté à identifier certaines lettres et mots écrits.
+
 4 - Presbytie : La presbytie est un problème de vision souvent lié à l'âge qui rend difficile la mise au point sur des objets, textes ou images proches.
+
 5 - Photophobie : Certains utilisateurs sont sensibles à la lumière et peuvent trouver difficile de lire du texte sur un fond lumineux/blanc.
+
 6 – Problème auditif : Cela peut aller de la perte auditive modérée, légère, voir même sévère ou profonde. Les personnes ayant des problèmes d’audition peuvent avoir du mal à entendre les paroles prononcées dans les vidéos/podcast/etc. du site Internet. Il est aussi possible que certaines personne ne peuvent tout simplement pas écouter des sons trop fort ou même n’en rien entendre du tout.
+
 Il est important de prendre en compte cette diversité de problèmes visuels/auditifs lors de la conception ou l’amélioration d'un site web afin de le rendre accessible au plus grand nombre d'utilisateurs possible. 
 
 L'application de bonnes pratiques en matière d'accessibilité contribuera à améliorer l'expérience pour tous les utilisateurs, indépendamment de leurs capacités.
