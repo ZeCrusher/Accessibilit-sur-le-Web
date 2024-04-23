@@ -32,3 +32,13 @@ L'application de bonnes pratiques en matière d'accessibilité contribuera à am
 # Comment tester un site Web
 
 
+La vérification de l’accessibilité doit être effectué par des tests manuels avec des outils dédiés dans le but de rendre les sites Internet et les services numériques accessibles à toutes et à tous. 
+
+## LES EXTENTIONS UTILISÉES POUR LES TESTS : 
+
+Le Site de l’Office de Tourisme de Martigues servira d’exemple pour la suite de ce guide. Il est tout à fait possible de simuler les déficits visuels et se rendre compte des améliorations à apporter à notre site via quelques extensions des navigateurs Web comme Google Chrome et également de sites web d’analyse. 
+
+
+
+
+
