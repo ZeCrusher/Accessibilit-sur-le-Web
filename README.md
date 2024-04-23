@@ -37,7 +37,7 @@ La vérification de l’accessibilité doit être effectué par des tests manuel
 ### `#RRGGBB` LES EXTENTIONS UTILISÉES POUR LES TESTS : 
 
 - !#c5f015 bonjour `#c5f015`
-- <span style="color:#00FF47;">Word up</span>
+- <span style="color:#ffffff;">Word up</span>
 
 Le Site de l’Office de Tourisme de Martigues servira d’exemple pour la suite de ce guide. Il est tout à fait possible de simuler les déficits visuels et se rendre compte des améliorations à apporter à notre site via quelques extensions des navigateurs Web comme Google Chrome et également de sites web d’analyse. 
 
