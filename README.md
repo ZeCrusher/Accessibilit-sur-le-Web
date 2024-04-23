@@ -28,3 +28,7 @@ Il est important de prendre en compte cette diversité de problèmes visuels/aud
 
 L'application de bonnes pratiques en matière d'accessibilité contribuera à améliorer l'expérience pour tous les utilisateurs, indépendamment de leurs capacités.
 
+
+# Comment tester un site Web
+
+
