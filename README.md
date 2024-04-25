@@ -34,35 +34,41 @@ L'application de bonnes pratiques en matière d'accessibilité contribuera à am
 
 # **Comment tester un site Web**
 
-La vérification de l’accessibilité doit être effectué par des tests manuels avec des outils dédiés dans le but de rendre les sites Internet et les services numériques accessibles à toutes et à tous. 
-
-### LES EXTENTIONS UTILISÉES POUR LES TESTS : 
-
-Le Site de l’Office de Tourisme de Martigues (www.martigues-tourisme.com) servira d’exemple pour la suite de ce guide. Il est tout à fait possible de simuler les déficits visuels et se rendre compte des améliorations à apporter à notre site via quelques extensions des navigateurs Web comme Google Chrome et également de sites web d’analyse. 
+> La vérification de l’accessibilité doit être effectué par des **tests manuels** avec des outils dédiés dans le but de rendre les sites Internet et les services numériques accessibles à toutes et à tous. 
 
 
-#### 1 - Funkify – Disability Simulator (disponible en extension sur google chrome -  
-Lien : Funkify Disability Simulator pour Chrome.
 
-Funkify est une extension pour Chrome qui vous permettra de découvrir votre site Web et ses interfaces à travers les yeux d'utilisateurs ayant des capacités et des handicaps différents. Elle existe uniquement en anglais. 
+## LES EXTENTIONS UTILISÉES POUR LES TESTS : 
+
+Il est tout à fait possible de simuler les déficits visuels et se rendre compte des améliorations à apporter à notre site via quelques extensions des navigateurs Web comme Google Chrome et également de sites web d’analyse. 
+**Le Site de l’Office de Tourisme de Martigues (www.martigues-tourisme.com) servira d’exemple pour la suite de ce guide.**
+
+> [!TIP]
+> Liste non exhaustive d'extension. Elles sont ici à titre d'exemple et elles sont utilisées dans un format **gratuit**.
+
+### 1 - Funkify – Disability Simulator (disponible en extension sur google chrome -> Funkify Disability Simulator pour Chrome )
+
+Funkify est une extension pour Chrome qui vous permettra de découvrir votre site Web et ses interfaces à travers les yeux de personnes ayant des capacités et des handicaps différents. Elle existe uniquement en anglais. Mais elle est facile à utiliser.
 
 ![image](https://github.com/ZeCrusher/Accessibilit-sur-le-Web/assets/102222839/0e7da314-43de-4ca0-920f-8ce1a9f94257)
 
+Pour simuler un handicap, il suffit d’ouvrir l’extension en cliquant sur son icone dans Chrome, en haut à droite, puis de choisir une « simulation d’handicap » avec le bouton Star. Dans la version gratuite, vous ne pouvez pas additionner les handicaps.
 
-#### 2 – Heandingsmaps :  
-Lien Headingsmap pour Chrome.
+### 2 – Heandingsmaps (Lien Headingsmap pour Chrome)
 
-Heandingsmaps est une extension qui permet d’afficher et de parcourir facilement les menus d’un site Internet et d’auditer la hiérarchie des titres. Cela est rendu possible grâce aux balises html ``` <h1>,<h2>, <ol>, <li> ``` 
+**Heandingsmaps** est une extension qui permet d’afficher et de parcourir facilement les menus d’un site Internet et d’auditer la hiérarchie des titres. Cela est rendu possible grâce aux balises html ``` <h1>,<h2>, <ol>, <li> ``` 
 
 Exemple d’un menu avec les balises h1 et h2. 
 
 ![image](https://github.com/ZeCrusher/Accessibilit-sur-le-Web/assets/102222839/4e15a1e6-12e9-4c81-9250-0db9262ee447)
 
-Par exemple, l’Extranet de l'office de Tourisme qui est un mini site web, hiérarchise correctement le menu de la page d’accueil et l’arborescence est bien visible de l’application Heandingsmaps. 
+Nous avons ici sur notre Extranet de l'office de Tourisme une hiérarchie correctement affichée. Le menu de la page d’accueil et l’arborescence sont bien visibles sur application Heandingsmaps et cela permet un bon parcourt du site.
+
+Contrairement au site martigues-tourisme où aucun menu et sous menu ne sont visible :
+![image](https://github.com/ZeCrusher/Accessibilit-sur-le-Web/assets/102222839/f801429c-67eb-4692-9bdb-1284196516ea)
 
 
-
-#### 3 - Web Disability Simulator Sélection : (Lien chrome : Web Disability)  
+### 3 - Web Disability Simulator Sélection : (Lien chrome : Web Disability)  
 
 Web Disability Simulator est une extension de Google Chrome qui simule la façon dont les utilisateurs peuvent consulter une page Web. Le simulateur crée une expérience qui vous permet de mieux comprendre l'importance de l'accessibilité du Web. 
 
